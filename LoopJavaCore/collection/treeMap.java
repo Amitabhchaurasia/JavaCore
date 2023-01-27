@@ -14,6 +14,7 @@ public class treeMap{
         System.out.println("Values: "+obj.values());
         System.out.println("Head Map: "+obj.headMap("ABC10"));
         System.out.println("Tail Map: "+obj.tailMap("NOOB100"));
+        
     }
     public static void main(String[] args) {
         treeMap obj=new treeMap();
